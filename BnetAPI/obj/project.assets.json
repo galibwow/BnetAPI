@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rakib\\source\\repos\\BnetAPI\\BnetAPI\\BnetAPI.csproj",
+      "projectUniqueName": "E:\\Personal\\BnetAPI\\BnetAPI\\BnetAPI.csproj",
       "projectName": "BnetAPI",
-      "projectPath": "C:\\Users\\rakib\\source\\repos\\BnetAPI\\BnetAPI\\BnetAPI.csproj",
+      "projectPath": "E:\\Personal\\BnetAPI\\BnetAPI\\BnetAPI.csproj",
       "packagesPath": "C:\\Users\\rakib\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rakib\\source\\repos\\BnetAPI\\BnetAPI\\obj\\",
+      "outputPath": "E:\\Personal\\BnetAPI\\BnetAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
