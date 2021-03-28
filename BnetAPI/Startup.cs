@@ -10,6 +10,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using BnetAPI.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace BnetAPI
 {
@@ -26,6 +28,10 @@ namespace BnetAPI
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+            services.AddDbContext<BnetDbContext>(options =>
+                options.UseSqlServer(Configuration.GetConnectionString("BnetConnection")));
+
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
