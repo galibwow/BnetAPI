@@ -1,0 +1,12 @@
+E:\Personal\BnetAPI\BnetAPI.Infrastructure\bin\Debug\netcoreapp3.1\BnetAPI.Infrastructure.deps.json
+E:\Personal\BnetAPI\BnetAPI.Infrastructure\bin\Debug\netcoreapp3.1\BnetAPI.Infrastructure.runtimeconfig.json
+E:\Personal\BnetAPI\BnetAPI.Infrastructure\bin\Debug\netcoreapp3.1\BnetAPI.Infrastructure.runtimeconfig.dev.json
+E:\Personal\BnetAPI\BnetAPI.Infrastructure\bin\Debug\netcoreapp3.1\BnetAPI.Infrastructure.dll
+E:\Personal\BnetAPI\BnetAPI.Infrastructure\bin\Debug\netcoreapp3.1\BnetAPI.Infrastructure.pdb
+E:\Personal\BnetAPI\BnetAPI.Infrastructure\obj\Debug\netcoreapp3.1\BnetAPI.Infrastructure.csprojAssemblyReference.cache
+E:\Personal\BnetAPI\BnetAPI.Infrastructure\obj\Debug\netcoreapp3.1\BnetAPI.Infrastructure.AssemblyInfoInputs.cache
+E:\Personal\BnetAPI\BnetAPI.Infrastructure\obj\Debug\netcoreapp3.1\BnetAPI.Infrastructure.AssemblyInfo.cs
+E:\Personal\BnetAPI\BnetAPI.Infrastructure\obj\Debug\netcoreapp3.1\BnetAPI.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Personal\BnetAPI\BnetAPI.Infrastructure\obj\Debug\netcoreapp3.1\BnetAPI.Infrastructure.dll
+E:\Personal\BnetAPI\BnetAPI.Infrastructure\obj\Debug\netcoreapp3.1\BnetAPI.Infrastructure.pdb
+E:\Personal\BnetAPI\BnetAPI.Infrastructure\obj\Debug\netcoreapp3.1\BnetAPI.Infrastructure.genruntimeconfig.cache

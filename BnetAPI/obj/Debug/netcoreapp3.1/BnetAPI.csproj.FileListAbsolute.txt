@@ -61,3 +61,5 @@ E:\Personal\BnetAPI\BnetAPI\obj\Debug\netcoreapp3.1\BnetAPI.csproj.CopyComplete
 E:\Personal\BnetAPI\BnetAPI\obj\Debug\netcoreapp3.1\BnetAPI.dll
 E:\Personal\BnetAPI\BnetAPI\obj\Debug\netcoreapp3.1\BnetAPI.pdb
 E:\Personal\BnetAPI\BnetAPI\obj\Debug\netcoreapp3.1\BnetAPI.genruntimeconfig.cache
+E:\Personal\BnetAPI\BnetAPI\bin\Debug\netcoreapp3.1\BnetAPI.Infrastructure.dll
+E:\Personal\BnetAPI\BnetAPI\bin\Debug\netcoreapp3.1\BnetAPI.Infrastructure.pdb

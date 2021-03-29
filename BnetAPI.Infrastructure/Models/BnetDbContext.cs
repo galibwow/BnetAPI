@@ -2,9 +2,10 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using BnetAPI.Infrastructure.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace BnetAPI.Models
+namespace BnetAPI.Infrastructure.Models
 {
     public class BnetDbContext:DbContext
     {

@@ -1520,6 +1520,20 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
+      },
+      "BnetAPI.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "5.0.4",
+          "Microsoft.EntityFrameworkCore.SqlServer": "5.0.4"
+        },
+        "compile": {
+          "bin/placeholder/BnetAPI.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BnetAPI.Infrastructure.dll": {}
+        }
       }
     }
   },
@@ -5765,10 +5779,16 @@
         "system.xml.xmlserializer.4.3.0.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
+    },
+    "BnetAPI.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../BnetAPI.Infrastructure/BnetAPI.Infrastructure.csproj",
+      "msbuildProject": "../BnetAPI.Infrastructure/BnetAPI.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "BnetAPI.Infrastructure >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 5.0.4",
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.4",
       "Microsoft.EntityFrameworkCore.Tools >= 5.0.4"
@@ -5804,7 +5824,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "E:\\Personal\\BnetAPI\\BnetAPI.Infrastructure\\BnetAPI.Infrastructure.csproj": {
+              "projectPath": "E:\\Personal\\BnetAPI\\BnetAPI.Infrastructure\\BnetAPI.Infrastructure.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

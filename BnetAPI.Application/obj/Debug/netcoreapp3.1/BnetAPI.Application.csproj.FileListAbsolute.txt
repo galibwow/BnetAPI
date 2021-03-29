@@ -1,0 +1,9 @@
+E:\Personal\BnetAPI\BnetAPI.Application\bin\Debug\netcoreapp3.1\BnetAPI.Application.deps.json
+E:\Personal\BnetAPI\BnetAPI.Application\bin\Debug\netcoreapp3.1\BnetAPI.Application.dll
+E:\Personal\BnetAPI\BnetAPI.Application\bin\Debug\netcoreapp3.1\BnetAPI.Application.pdb
+E:\Personal\BnetAPI\BnetAPI.Application\obj\Debug\netcoreapp3.1\BnetAPI.Application.csprojAssemblyReference.cache
+E:\Personal\BnetAPI\BnetAPI.Application\obj\Debug\netcoreapp3.1\BnetAPI.Application.AssemblyInfoInputs.cache
+E:\Personal\BnetAPI\BnetAPI.Application\obj\Debug\netcoreapp3.1\BnetAPI.Application.AssemblyInfo.cs
+E:\Personal\BnetAPI\BnetAPI.Application\obj\Debug\netcoreapp3.1\BnetAPI.Application.csproj.CoreCompileInputs.cache
+E:\Personal\BnetAPI\BnetAPI.Application\obj\Debug\netcoreapp3.1\BnetAPI.Application.dll
+E:\Personal\BnetAPI\BnetAPI.Application\obj\Debug\netcoreapp3.1\BnetAPI.Application.pdb

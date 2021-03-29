@@ -1,9 +1,9 @@
 ﻿using System;
 using Microsoft.EntityFrameworkCore.Migrations;
 
-namespace BnetAPI.Migrations
+namespace BnetAPI.Infrastructure.Migrations
 {
-    public partial class Inititalize : Migration
+    public partial class Initialization : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {

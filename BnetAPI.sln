@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31105.61
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BnetAPI", "BnetAPI\BnetAPI.csproj", "{6427DAD0-C3E5-420F-9525-A4B26666D52F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BnetAPI", "BnetAPI\BnetAPI.csproj", "{6427DAD0-C3E5-420F-9525-A4B26666D52F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BnetAPI.Domain", "BnetAPI.Domain\BnetAPI.Domain.csproj", "{2B684F0A-A1B6-4CB3-96DD-7596B332B149}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BnetAPI.Application", "BnetAPI.Application\BnetAPI.Application.csproj", "{32C324B3-2CFB-4282-A3A2-8A889229530D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BnetAPI.Infrastructure", "BnetAPI.Infrastructure\BnetAPI.Infrastructure.csproj", "{3D14E531-E856-4D0F-98BC-6B15E91B99B9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{6427DAD0-C3E5-420F-9525-A4B26666D52F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6427DAD0-C3E5-420F-9525-A4B26666D52F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6427DAD0-C3E5-420F-9525-A4B26666D52F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B684F0A-A1B6-4CB3-96DD-7596B332B149}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B684F0A-A1B6-4CB3-96DD-7596B332B149}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B684F0A-A1B6-4CB3-96DD-7596B332B149}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B684F0A-A1B6-4CB3-96DD-7596B332B149}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32C324B3-2CFB-4282-A3A2-8A889229530D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32C324B3-2CFB-4282-A3A2-8A889229530D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32C324B3-2CFB-4282-A3A2-8A889229530D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32C324B3-2CFB-4282-A3A2-8A889229530D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D14E531-E856-4D0F-98BC-6B15E91B99B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D14E531-E856-4D0F-98BC-6B15E91B99B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D14E531-E856-4D0F-98BC-6B15E91B99B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D14E531-E856-4D0F-98BC-6B15E91B99B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
