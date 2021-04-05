@@ -4,10 +4,11 @@ using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Threading.Tasks;
+using BnetAPI.Domain.Common;
 
-namespace BnetAPI.Infrastructure.Models
+namespace BnetAPI.Domain.Models
 {
-    public class MovieInfo
+    public class MovieInfo:AuditEntitiy
     {
         [Key]
         public long MovieId { get; set; }

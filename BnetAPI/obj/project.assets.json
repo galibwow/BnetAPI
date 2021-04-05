@@ -1521,10 +1521,38 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
+      "BnetAPI.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "BnetAPI.Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "5.0.4"
+        },
+        "compile": {
+          "bin/placeholder/BnetAPI.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BnetAPI.Application.dll": {}
+        }
+      },
+      "BnetAPI.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "5.0.4"
+        },
+        "compile": {
+          "bin/placeholder/BnetAPI.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BnetAPI.Domain.dll": {}
+        }
+      },
       "BnetAPI.Infrastructure/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
+          "BnetAPI.Application": "1.0.0",
           "Microsoft.EntityFrameworkCore": "5.0.4",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.4"
         },
@@ -5779,6 +5807,16 @@
         "system.xml.xmlserializer.4.3.0.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
+    },
+    "BnetAPI.Application/1.0.0": {
+      "type": "project",
+      "path": "../BnetAPI.Application/BnetAPI.Application.csproj",
+      "msbuildProject": "../BnetAPI.Application/BnetAPI.Application.csproj"
+    },
+    "BnetAPI.Domain/1.0.0": {
+      "type": "project",
+      "path": "../BnetAPI.Domain/BnetAPI.Domain.csproj",
+      "msbuildProject": "../BnetAPI.Domain/BnetAPI.Domain.csproj"
     },
     "BnetAPI.Infrastructure/1.0.0": {
       "type": "project",
